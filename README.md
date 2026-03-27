@@ -114,6 +114,4 @@ make
 
 ---
 
-## 📜 License
 
-MIT License
